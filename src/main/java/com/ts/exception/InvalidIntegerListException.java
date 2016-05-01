@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.ts.largest.exception;
+package com.ts.exception;
 
 /**
  * @author Raju

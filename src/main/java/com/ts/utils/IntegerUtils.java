@@ -1,4 +1,4 @@
-package com.ts.largest;
+package com.ts.utils;
 
 import java.util.Arrays;
 import java.util.Iterator;
@@ -7,7 +7,7 @@ import java.util.TreeSet;
 
 import org.apache.log4j.Logger;
 
-import com.ts.largest.exception.InvalidIntegerListException;
+import com.ts.exception.InvalidIntegerListException;
 
 /**
  * This class provides util methods that will identify the second largest and
