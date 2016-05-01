@@ -1,10 +1,11 @@
-package com.ts.largest;
+package com.ts.utils;
 
 import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.ts.largest.exception.InvalidIntegerListException;
+import com.ts.exception.InvalidIntegerListException;
+import com.ts.utils.IntegerUtils;
 
 /**
  * @author Raju
